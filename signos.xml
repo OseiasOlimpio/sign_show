@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <nome>Áries</nome>
+    <imagem>assets/imgs/Mu_de_aries.png</imagem>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <descricao>Áries é um signo de fogo, conhecido por sua energia, paixão e impulsividade. As pessoas de Áries são geralmente corajosas, independentes e determinadas.</descricao>
+  </signo>
+  <signo>
+    <nome>Touro</nome>
+    <imagem>assets/imgs/Aldebaran-de-touro.png</imagem>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <descricao>Touro é um signo de terra, conhecido por sua estabilidade, praticidade e amor pelo conforto. As pessoas de Touro são geralmente confiáveis, leais e teimosas.</descricao>
+  </signo>
+  <signo>
+    <nome>Gêmeos</nome>
+    <imagem>assets/imgs/saga-de-gemeos.png</imagem>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <descricao>Gêmeos é um signo de ar, conhecido por sua comunicação, inteligência e adaptabilidade. As pessoas de Gêmeos são geralmente curiosas, versáteis e sociáveis.</descricao>
+  </signo>
+  <signo>
+    <nome>Câncer</nome>
+    <imagem>assets/imgs/mascara-da-morte-de-cancer.png</imagem>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <descricao>Câncer é um signo de água, conhecido por sua sensibilidade, intuição e capacidade de nutrir. As pessoas de Câncer são geralmente compassivas, protetivas e caseiras.</descricao>
+  </signo>
+  <signo>
+    <nome>Leão</nome>
+    <imagem>assets/imgs/Aiolia_de_leao.png</imagem>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <descricao>Leão é um signo de fogo, conhecido por sua liderança, generosidade e confiança. As pessoas de Leão são geralmente charmosas, criativas e dramáticas.</descricao>
+  </signo>
+  <signo>
+    <nome>Virgem</nome>
+    <imagem>assets/imgs/Shaka-de-virgem.png</imagem>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <descricao>Virgem é um signo de terra, conhecido por sua praticidade, organização e atenção aos detalhes. As pessoas de Virgem são geralmente analíticas, eficientes e perfeccionistas.</descricao>
+  </signo>
+  <signo>
+    <nome>Libra</nome>
+    <imagem>assets/imgs/Dohko_de_libra.png</imagem>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <descricao>Libra é um signo de ar, conhecido por sua diplomacia, justiça e busca pelo equilíbrio. As pessoas de Libra são geralmente harmoniosas, justas e indecisas.</descricao>
+  </signo>
+  <signo>
+    <nome>Escorpião</nome>
+    <imagem>assets/imgs/Milo_de_escorpiao.png</imagem>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <descricao>Escorpião é um signo de água, conhecido por sua intensidade, mistério e transformação. As pessoas de Escorpião são geralmente apaixonadas, resilientes e enigmáticas.</descricao>
+  </signo>
+  <signo>
+    <nome>Sagitário</nome>
+    <imagem>assets/imgs/Aiolos_de_sagitario.png</imagem>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <descricao>Sagitário é um signo de fogo, conhecido por sua aventura, otimismo e busca pelo conhecimento. As pessoas de Sagitário são geralmente independentes, otimistas e filosóficas.</descricao>
+  </signo>
+  <signo>
+    <nome>Capricórnio</nome>
+    <imagem>assets/imgs/Shura_de_capricornio.png</imagem>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <descricao>Capricórnio é um signo de terra, conhecido por sua disciplina, ambição e responsabilidade. As pessoas de Capricórnio são geralmente responsáveis, trabalhadoras e reservadas.</descricao>
+  </signo>
+  <signo>
+    <nome>Aquário</nome>
+    <imagem>assets/imgs/Aquarius_Camus.png</imagem>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <descricao>Aquário é um signo de ar, conhecido por sua originalidade, independência e visão humanitária. As pessoas de Aquário são geralmente progressistas, inovadoras e excêntricas.</descricao>
+  </signo>
+  <signo>
+    <nome>Peixes</nome>
+    <imagem>assets/imgs/afrodite-de-peixes.png</imagem>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <descricao>Peixes é um signo de água, conhecido por sua compaixão, intuição e sensibilidade. As pessoas de Peixes são geralmente sonhadoras, criativas e empáticas.</descricao>
+  </signo>
+</signos>
+<!-- End of signos.xml -->
